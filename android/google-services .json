@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83387775111",
+    "project_id": "food-hub-ff53a",
+    "storage_bucket": "food-hub-ff53a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83387775111:android:5b984ad33b444e9dd82022",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83387775111-2fo624sm8hb883n6dftddn4kgfq2ded2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrTr59kYRxn-HY3cFA65bOjCH-WKWswU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83387775111-2fo624sm8hb883n6dftddn4kgfq2ded2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
